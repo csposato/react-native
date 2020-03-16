@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79e71d98-0e1e-432a-924e-b6d6fdc3f70e" name="Default" comment="" />
+    <list default="true" id="79e71d98-0e1e-432a-924e-b6d6fdc3f70e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/AwesomeProject/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwesomeProject/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/AwesomeProject/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwesomeProject/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/AwesomeProject/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwesomeProject/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/AwesomeProject/package.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,16 +20,34 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AwesomeProject/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+            <state relative-caret-position="320">
+              <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#103#129#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="770">
+              <caret line="1220" column="12" selection-start-line="1220" selection-start-column="12" selection-end-line="1220" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -31,6 +56,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AwesomeProject/App.js" />
+        <option value="$PROJECT_DIR$/AwesomeProject/README.md" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -149,29 +182,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli-platform-ios/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli-tools/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli-types/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/@jest/types/node_modules/chalk/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/@jest/types/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/@types/yargs/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/ansi-regex/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/ansi-styles/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/chardet/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/color-convert/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/color-name/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/external-editor/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/figures/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/find-up/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/has-flag/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/inquirer/node_modules/ansi-regex/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/inquirer/node_modules/strip-ansi/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/inquirer/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/locate-path/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/mute-stream/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/p-locate/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/path-exists/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/pretty-format/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/semver/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/node_modules/supports-color/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/cli/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@react-native-community/eslint-config/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@types/babel__core/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@types/babel__generator/package.json" />
@@ -193,7 +203,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@typescript-eslint/typescript-estree/node_modules/semver/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/@typescript-eslint/typescript-estree/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/abab/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/abbrev/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/abort-controller/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/absolute-path/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/accepts/package.json" />
@@ -213,8 +222,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/ansi-styles/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/ansi-wrap/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/anymatch/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/aproba/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/are-we-there-yet/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/argparse/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/arr-diff/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/arr-flatten/package.json" />
@@ -285,7 +292,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/chalk/node_modules/supports-color/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/chalk/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/chardet/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/chownr/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/ci-info/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/class-utils/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/cli-cursor/package.json" />
@@ -312,7 +318,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/concat-map/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/concat-stream/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/connect/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/console-control-strings/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/convert-source-map/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/copy-descriptor/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/core-js/package.json" />
@@ -333,24 +338,18 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/debug/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/decamelize/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/decode-uri-component/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/deep-extend/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/deep-is/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/deepmerge/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/defaults/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/define-properties/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/define-property/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/define-property/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/define-property/node_modules/is-data-descriptor/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/define-property/node_modules/is-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/define-property/node_modules/kind-of/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/define-property/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/delayed-stream/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/delegates/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/denodeify/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/depd/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/destroy/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/detect-libc/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/detect-newline/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/didyoumean/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/diff-sequences/package.json" />
@@ -436,7 +435,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/fragment-cache/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/fresh/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/fs-extra/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/fs-minipass/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/fs.realpath/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/fsevents/node_modules/abbrev/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/fsevents/node_modules/ansi-regex/package.json" />
@@ -509,11 +507,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/fsevents/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/function-bind/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/functional-red-black-tree/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/gauge/node_modules/ansi-regex/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/gauge/node_modules/is-fullwidth-code-point/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/gauge/node_modules/string-width/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/gauge/node_modules/strip-ansi/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/gauge/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/gensync/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/get-caller-file/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/get-stream/package.json" />
@@ -528,7 +521,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/har-validator/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/has-flag/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/has-symbols/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/has-unicode/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/has-value/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/has-values/node_modules/kind-of/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/has-values/package.json" />
@@ -540,7 +532,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/http-errors/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/http-signature/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/iconv-lite/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/ignore-walk/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/ignore/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/image-size/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/import-fresh/node_modules/resolve-from/package.json" />
@@ -549,7 +540,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/imurmurhash/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/inflight/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/ini/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/inquirer/node_modules/ansi-escapes/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/inquirer/node_modules/ansi-regex/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/inquirer/node_modules/ansi-styles/package.json" />
@@ -611,7 +601,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/istanbul-lib-source-maps/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/istanbul-reports/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/jest-changed-files/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/jest-cli/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/jest-config/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/jest-diff/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/jest-docblock/package.json" />
@@ -758,10 +747,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/metro/node_modules/yargs-parser/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/metro/node_modules/yargs/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/metro/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/micromatch/node_modules/define-property/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/micromatch/node_modules/extend-shallow/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/micromatch/node_modules/is-extendable/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/micromatch/node_modules/kind-of/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/micromatch/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/mime-db/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/mime-types/package.json" />
@@ -769,9 +754,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/mimic-fn/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/minimatch/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/minimist/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/minipass/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/minipass/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/minizlib/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/mixin-deep/node_modules/is-extendable/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/mixin-deep/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/mkdirp/node_modules/minimist/package.json" />
@@ -781,30 +763,17 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/mute-stream/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/nan/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/nan/tools/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/nanomatch/node_modules/define-property/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/nanomatch/node_modules/extend-shallow/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/nanomatch/node_modules/is-extendable/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/nanomatch/node_modules/kind-of/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/nanomatch/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/natural-compare/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/needle/node_modules/debug/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/needle/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/negotiator/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/nice-try/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/node-fetch/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/node-int64/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/node-modules-regexp/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/node-notifier/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/node-pre-gyp/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/nopt/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/normalize-package-data/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/normalize-path/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/npm-bundled/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/npm-normalize-package-bin/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/npm-packlist/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/npm-run-path/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/npmlog/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/nullthrows/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/number-is-nan/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/nwsapi/package.json" />
@@ -827,12 +796,10 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/optionator/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/options/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/ora/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/os-homedir/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/os-locale/node_modules/execa/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/os-locale/node_modules/get-stream/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/os-locale/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/os-tmpdir/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/osenv/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/p-defer/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/p-each-series/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/p-finally/package.json" />
@@ -880,8 +847,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/punycode/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/qs/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/range-parser/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/rc/node_modules/strip-json-comments/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/rc/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/react-devtools-core/node_modules/shell-quote/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/react-devtools-core/node_modules/ultron/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/react-devtools-core/node_modules/ws/package.json" />
@@ -903,8 +868,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/regenerate/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/regenerator-runtime/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/regenerator-transform/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/regex-not/node_modules/extend-shallow/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/regex-not/node_modules/is-extendable/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/regex-not/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/regexpp/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/regexpu-core/package.json" />
@@ -963,7 +926,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/sax/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/scheduler/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/semver/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/send/node_modules/mime/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/send/node_modules/ms/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/send/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/serialize-error/package.json" />
@@ -995,8 +957,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/spdx-exceptions/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/spdx-expression-parse/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/spdx-license-ids/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/split-string/node_modules/extend-shallow/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/split-string/node_modules/is-extendable/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/split-string/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/sprintf-js/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/sshpk/package.json" />
@@ -1025,8 +985,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/symbol-tree/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/table/node_modules/string-width/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/table/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/tar/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/tar/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/temp/node_modules/rimraf/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/temp/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/test-exclude/node_modules/require-main-filename/package.json" />
@@ -1041,16 +999,12 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/to-fast-properties/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/to-object-path/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/to-regex-range/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/to-regex/node_modules/define-property/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/to-regex/node_modules/extend-shallow/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/to-regex/node_modules/is-extendable/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/to-regex/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/toidentifier/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/tough-cookie/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/tr46/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/tslib/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/tsutils/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/tunnel-agent/node_modules/safe-buffer/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/tunnel-agent/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/tweetnacl/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/type-check/package.json" />
@@ -1081,7 +1035,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/v8-compile-cache/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/validate-npm-package-license/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/vary/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/verror/node_modules/extsprintf/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/verror/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/vlq/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/w3c-hr-time/package.json" />
@@ -1094,7 +1047,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/whatwg-url/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/which-module/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/which/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/wide-align/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/word-wrap/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/wordwrap/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/wrap-ansi/node_modules/ansi-regex/package.json" />
@@ -1114,7 +1066,6 @@
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/xpipe/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/xtend/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/y18n/package.json" />
-      <path value="$PROJECT_DIR$/AwesomeProject/node_modules/yallist/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/yargs-parser/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/yargs/node_modules/get-caller-file/package.json" />
       <path value="$PROJECT_DIR$/AwesomeProject/node_modules/yargs/node_modules/require-main-filename/package.json" />
@@ -1133,7 +1084,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1150,6 +1100,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1158,6 +1109,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AwesomeProject" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1171,6 +1127,9 @@
       </list>
     </option>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="79e71d98-0e1e-432a-924e-b6d6fdc3f70e" name="Default" comment="" />
@@ -1178,12 +1137,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584368987732</updated>
-      <workItem from="1584368988962" duration="247000" />
+      <workItem from="1584368988962" duration="360000" />
+      <workItem from="1584369366092" duration="1011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="247000" />
+    <option name="totallyTimeSpent" value="1027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
@@ -1191,35 +1151,134 @@
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1864139" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1864139" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/AwesomeProject/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+        <state relative-caret-position="1365">
+          <caret line="91" column="22" lean-forward="true" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#103#129#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AwesomeProject/node_modules/react-navigation-stack/lib/module/vendor/views/Stack/CardStack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AwesomeProject/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AwesomeProject/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="1220" column="12" selection-start-line="1220" selection-start-column="12" selection-end-line="1220" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AwesomeProject/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" column="22" lean-forward="true" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AwesomeProject/node_modules/react-navigation-stack/lib/module/vendor/views/Stack/CardStack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AwesomeProject/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AwesomeProject/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
