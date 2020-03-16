@@ -59,5 +59,6 @@ buck-out/
 /ios/Pods/
 
 #.idea
-.idea/
-../../.idea/
+.idea
+../.idea
+../../.idea
